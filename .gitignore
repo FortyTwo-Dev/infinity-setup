@@ -1,1 +1,18 @@
+# Rust build output
 /target
+
+# IDE / editor
+/.idea/
+*.iml
+
+# Local environment
+.env
+.env.*
+
+# Secrets (keys, credentials, tokens)
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+credentials.json
